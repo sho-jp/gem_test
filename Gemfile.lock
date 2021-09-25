@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    gem_test (0.1.0)
+    gem_test_jp (0.1.0)
 
 GEM
   remote: https://rubygems.org/
@@ -46,7 +46,7 @@ PLATFORMS
   x86_64-darwin-19
 
 DEPENDENCIES
-  gem_test!
+  gem_test_jp!
   rake (~> 13.0)
   rspec (~> 3.0)
   rubocop (~> 1.7)

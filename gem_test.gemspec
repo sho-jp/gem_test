@@ -3,9 +3,9 @@
 require_relative "lib/gem_test/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "gem_test"
+  spec.name          = "gem_test_jp"
   spec.version       = GemTest::VERSION
-  spec.authors       = ["sho171"]
+  spec.authors       = ["sho-jp"]
   spec.email         = ["sh.zxcv00@gmail.com"]
 
   spec.summary       = "test gem"
